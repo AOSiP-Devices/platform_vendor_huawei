@@ -37,7 +37,6 @@ PRODUCT_PACKAGES += \
     DCMO \
     DiagMon \
     DMService \
-    GCS \
     HiddenMenu \
     HotwordEnrollment \
     qcrilmsgtunnel \
